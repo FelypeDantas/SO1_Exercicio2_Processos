@@ -110,7 +110,7 @@ public class KillController {
 			String opcao = "y";
 			
 			try {
-				Process p = Runtime.getRuntime().exec(mataNome);
+//				Process p = Runtime.getRuntime().exec(mataNome);
 //				InputStream fluxo = p.getInputStream();
 //				InputStreamReader leitor = new InputStreamReader(fluxo);
 //				BufferedReader buffer = new BufferedReader(leitor);
